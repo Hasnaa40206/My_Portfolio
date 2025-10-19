@@ -1,2 +1,2 @@
 # Project_HR_Dashboard
-Dacshboard HR by Power BI
+Dashboard HR by Power BI
