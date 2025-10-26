@@ -1,5 +1,5 @@
 # Contents of the portfolio
-**📊 HR Dashboard_1/2 ** -> (Power BI)
+**📊 HR Dashboard_1/2** -> (Power BI)
 
 This project presents an interactive HR Dashboard built using Microsoft Power BI.
 It provides valuable insights into employee data such as attendance, performance, turnover, and salary distribution.
