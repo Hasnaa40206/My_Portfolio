@@ -7,11 +7,11 @@ The dashboard helps HR managers make data-driven decisions and monitor key HR me
 
 Key Features:
 
-1-Employee performance analysis
-2-Gender and department distribution visualization
-3-Attrition rate tracking
-4-Salary and age insights
+  1-Employee performance analysis
+  2-Gender and department distribution visualization
+  3-Attrition rate tracking
+  4-Salary and age insights
 
 Tools Used:
-1-Power BI
-2-Excel (for data cleaning and preparation)
+  1-Power BI
+  2-Excel (for data cleaning and preparation)
